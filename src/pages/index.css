@@ -1,0 +1,13 @@
+
+
+Table tr th{
+    border:1px solid black;
+}
+
+Table tr td{
+    border:1px solid black;
+}
+
+nav ul{
+    justify-content: center;
+  }
